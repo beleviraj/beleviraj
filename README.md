@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...TECH
 - 🌱 I’m currently learning ...AI AND DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...virajbele@gmail.com
+- 📫 How to reach me virajbele@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 

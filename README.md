@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viraj Bele
 - 👀 I’m interested in ...TECH
-- 🌱 I’m currently learning AI AND DATA SCIENCE
+- 🌱 I’m currently learning AI and DATA SCIENCE
 - 📫 How to reach me virajbele@gmail.com
 
 

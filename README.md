@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @beleviraj
+- 👋 Hi, I’m Viraj Bele
 - 👀 I’m interested in ...TECH
-- 🌱 I’m currently learning ...AI AND DATA SCIENCE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AI AND DATA SCIENCE
 - 📫 How to reach me virajbele@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 beleviraj/beleviraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
